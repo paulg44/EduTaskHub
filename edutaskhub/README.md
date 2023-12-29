@@ -45,4 +45,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-Change framework on vercel...again...and again
+I could not get this project to deploy properly on Vercel, so I tried again and made sure the framework was correct. Lets see if this commit works and it deploys as should.
